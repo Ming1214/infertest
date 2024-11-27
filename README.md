@@ -1,4 +1,4 @@
-# Infertest-plus
+# Infertest
 
 该项目用于测试部署的 LLM 在对话场景下（模拟参数可调）的各种性能指标。
 
